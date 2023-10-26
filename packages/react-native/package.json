@@ -28,7 +28,7 @@
     "chalk": "^4.1.0",
     "enhanced-resolve": "^5.8.3",
     "fs-extra": "^11.1.0",
-    "glob": "7.1.4",
+    "glob": "7.2.3",
     "ignore": "^5.0.4",
     "metro-config": "0.76.7",
     "metro-resolver": "0.76.7",
