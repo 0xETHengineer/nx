@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@phenomnomnominal/tsquery": "~5.0.1",
-    "tmp": "~0.2.1",
+    "tmp": "~0.2.2",
     "tslib": "^2.3.0",
     "@nx/devkit": "file:../devkit",
     "@nx/js": "file:../js",
