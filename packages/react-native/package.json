@@ -30,7 +30,7 @@
     "fs-extra": "^11.1.0",
     "glob": "7.1.4",
     "ignore": "^5.0.4",
-    "metro-config": "0.76.7",
+    "metro-config": "0.80.10",
     "metro-resolver": "0.76.7",
     "minimatch": "3.0.5",
     "node-fetch": "^2.6.7",
